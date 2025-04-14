@@ -1,4 +1,4 @@
-package org.example;
+package com.example;
 
 public class Singleton {
     // Private static variable to hold the single instance of the class

@@ -1,4 +1,4 @@
-package org.example;
+package com.example;
 
 public class RearrangeElements {
     public static void main(String[] args) {

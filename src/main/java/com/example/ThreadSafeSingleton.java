@@ -1,4 +1,4 @@
-package org.example;
+package com.example;
 
 public class ThreadSafeSingleton {
     private static ThreadSafeSingleton instance;
